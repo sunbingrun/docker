@@ -4,3 +4,4 @@ kasmweb/nginx:1.25.3
 vaultwarden/server:latest
 --platform linux/arm64 cooderl/wewe-rss-sqlite:latest
 xhofe/alist:latest
+p3terx/ariang:latest
