@@ -50,3 +50,35 @@ docker pull registry.cn-hangzhou.aliyuncs.com/shrimp-images/alpine
 registry.cn-hangzhou.aliyuncs.com 即 ALIYUN_REGISTRY<br>
 shrimp-images 即 ALIYUN_NAME_SPACE<br>
 alpine 即images.txt里面填的镜像<br>
+
+
+备份一些images.txt里面填的镜像的名称：
+alpine
+python:alpine3.19
+kasmweb/nginx:1.25.3
+vaultwarden/server:latest
+--platform linux/arm64 cooderl/wewe-rss-sqlite:latest
+xhofe/alist:latest
+p3terx/ariang:latest
+snowdreamtech/frps:latest
+p3terx/aria2-pro:latest
+nginx:1.26.0
+minio/minio:latest
+redis:7
+seataio/seata-server:1.8.0
+emqx:5.6.1
+portainer/portainer-ce:latest
+1298191366/jimureport-mysql:1.5.4
+1298191366/jimureport:1.5.4
+
+
+
+
+
+
+
+
+
+
+
+
