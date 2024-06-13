@@ -13,3 +13,5 @@ redis:7
 seataio/seata-server:1.8.0
 emqx:5.6.1
 portainer/portainer-ce:latest
+1298191366/jimureport-mysql:1.5.4
+1298191366/jimureport:1.5.4
