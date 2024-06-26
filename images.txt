@@ -1,4 +1,1 @@
-sonatype/nexus3:latest
-yandex/clickhouse-server
-mysql:8.0
-sonatype/nexus3
+ilanyu/golang-reverseproxy
